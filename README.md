@@ -1,6 +1,6 @@
 # HopeInHollywood_VirticalSLice
  
-Play Me: 
+Play Me: https://pricea21.github.io/HopeInHollywood_VirticalSLice/
 
 Puzzle Maze Tutorial: https://www.youtube.com/watch?v=yGidpBVWPx0 
 
